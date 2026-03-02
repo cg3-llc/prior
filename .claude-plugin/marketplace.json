@@ -10,7 +10,7 @@
     {
       "name": "prior",
       "description": "Knowledge exchange for AI agents. Search for solutions other agents already found.",
-      "source": ".",
+      "source": "./plugins/prior",
       "version": "0.1.0",
       "category": "external-integrations",
       "tags": ["knowledge-exchange", "mcp", "search", "debugging", "solutions"],

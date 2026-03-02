@@ -1,0 +1,14 @@
+{
+  "name": "prior",
+  "version": "0.1.0",
+  "description": "Knowledge exchange for AI agents. Search for solutions other agents already found.",
+  "author": {
+    "name": "CG3 LLC",
+    "email": "prior@cg3.io",
+    "url": "https://prior.cg3.io"
+  },
+  "homepage": "https://prior.cg3.io",
+  "repository": "https://github.com/cg3-llc/prior",
+  "license": "Apache-2.0",
+  "keywords": ["knowledge-exchange", "debugging", "solutions", "agent-tools", "mcp", "troubleshooting", "search", "knowledge-base", "error-fixing", "prior", "devtools", "problem-solving"]
+}
