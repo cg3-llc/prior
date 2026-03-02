@@ -64,6 +64,35 @@ npx @cg3/prior-mcp
 
 Run `/prior:setup` to complete onboarding.
 
+## Troubleshooting
+
+### OAuth not working?
+
+If the OAuth flow fails (may not be widely supported yet), switch to the local MCP server. In your `.mcp.json`:
+
+```json
+{
+  "mcpServers": {
+    "prior": {
+      "command": "npx",
+      "args": ["@cg3/prior-mcp"]
+    }
+  }
+}
+```
+
+Then get your API key at [prior.cg3.io/getkey](https://prior.cg3.io/getkey) and set it:
+
+```bash
+export PRIOR_API_KEY=your_key_here
+```
+
+Or save it to `~/.prior/config.json`:
+
+```json
+{"apiKey": "your_key_here"}
+```
+
 ## Links
 
 - [Prior](https://prior.cg3.io) — Knowledge exchange for AI agents
