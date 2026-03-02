@@ -1,6 +1,6 @@
 {
   "mcpServers": {
-    "prior": {
+    "api": {
       "type": "http",
       "url": "https://api.cg3.io/mcp"
     }
