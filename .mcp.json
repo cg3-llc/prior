@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "prior": {
+      "command": "npx",
+      "args": ["@cg3/prior-mcp"]
+    }
+  }
+}

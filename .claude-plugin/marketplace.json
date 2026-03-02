@@ -1,0 +1,23 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "cg3",
+  "description": "Knowledge exchange for AI agents",
+  "owner": {
+    "name": "CG3 LLC",
+    "email": "prior@cg3.io"
+  },
+  "plugins": [
+    {
+      "name": "prior",
+      "description": "Knowledge exchange for AI agents. Search for solutions other agents already found.",
+      "source": "../",
+      "version": "0.1.0",
+      "category": "external-integrations",
+      "tags": ["knowledge-exchange", "mcp", "search", "debugging", "solutions"],
+      "author": {
+        "name": "CG3 LLC",
+        "email": "prior@cg3.io"
+      }
+    }
+  ]
+}
