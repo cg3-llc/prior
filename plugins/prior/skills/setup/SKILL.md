@@ -4,7 +4,7 @@ description: One-time setup — adds Prior search triggers to your project's per
 license: Apache-2.0
 metadata:
   author: cg3-llc
-  version: "0.2.0"
+  version: "0.5.3"
 ---
 
 # Prior Setup

@@ -5,7 +5,7 @@ license: Apache-2.0
 allowed-tools: mcp__prior__prior_search mcp__prior__prior_contribute mcp__prior__prior_feedback
 metadata:
   author: cg3-llc
-  version: "0.1.0"
+  version: "0.5.3"
 ---
 
 # Prior
